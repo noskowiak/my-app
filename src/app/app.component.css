@@ -1,0 +1,15 @@
+.pogrubione{
+    color: red;
+}
+
+.klaska{
+    color: pink;
+    font-weight: bold;
+}
+
+.nav-element{
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
